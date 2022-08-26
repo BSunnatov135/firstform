@@ -1,3 +1,26 @@
 label, input {
     margin: 5px;
+    vertical-align: middle;
+    height: 30px;
+    font-size: 20px;
+}
+label {
+    font-weight: 600;
+}
+form {
+    margin: 0 auto;
+    align-self: center;
+    align-items: center;
+    width: fit-content;
+    line-height: 40px;
+    vertical-align: middle;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+}
+.gender {
+    font-weight: 300;
 }
